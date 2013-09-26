@@ -53,3 +53,8 @@ end
 # gem 'debugger', group: [:development, :test]
 
 gem 'httpclient'
+ruby '2.0.0'
+
+group :production do
+  gem 'rails_12factor'
+end
