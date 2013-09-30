@@ -7,4 +7,7 @@ deploy:
     secure: BcrR2P4IKY3dzsjl09I5S1L8ebrZxkCviMteHeGqsrgGJ4nY7zA0zcO2ikZlXhecT0vDzlm4Hnhzd3L2EyHDu+MsB9Vqnx8K2jm/bTOzGp3FOfx/5Dvl0bRG7EM6Kc9zuFuuqn1L+mzVNRNVn5lrJ6Q+jiy4sFebQnP6sWNwo0w=
   app: whispering-plains-2548
   on:
-    repo: himajin315/rakuten-ws-rails-sample
+    repo: HUMAN-FLY/rakuten-ws-rails-sample
+language:ruby
+rvm:
+  -2.0.0
